@@ -20,6 +20,7 @@ Cipher commands:
   - des-cbc
 
 ## Usage
+
 ```bash
 ft_ssl command [flags] [file/string]
 
